@@ -10,7 +10,7 @@
   <p align="center">
     CurhatKu is a mental health app offering a safe space for self-expression, professional support, and resources. Key features include an anonymous forum, psychologist consultations, and mental health articles. It uses AI to detect emotions from forum posts and provide personalized support.
 
-   This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
+   This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka </strong></a>
    Program.
     <br />
     <a href="https://github.com/DzakaAl/CurhatKu"><strong>Explore the docs »</strong></a>
