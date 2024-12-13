@@ -137,6 +137,12 @@ Contributions are the heart of the open-source community, making it an incredibl
 4. Push to the Branch (git push origin feature/yourFeature)
 5. Open a Pull Request
 
+<p align="center">
+  <a href="https://github.com/DzakaAl/CurhatKu">
+    <img src="https://i.imgur.com/S1OMxSx.png" width='800dp' alt="Logo Teks" >
+  </a>
+</p>
+
 ## Contact
 
 - [M. Dzaka Al Fikri](https://www.linkedin.com/in/m-dzaka-al-fikri-7bba421a4/)
