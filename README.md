@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DzakaAl/CurhatKu">
-    <img src="https://imgur.com/coJdGOZ" width='400dp' alt="Logo" >
+    <img src="https://ibb.co.com/yVkRvHW" width='400dp' alt="Logo" >
   </a>
 
   <h3 align="center">CurhatKu</h3>
