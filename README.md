@@ -1,3 +1,9 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 # CurhatKu
 
 CurhatKu is a mental health app offering a safe space for self-expression, professional support, and resources. Key features include an anonymous forum, psychologist consultations, and mental health articles. It uses AI to detect emotions from forum posts and provide personalized support.
