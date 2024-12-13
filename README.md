@@ -139,7 +139,7 @@ Contributions are the heart of the open-source community, making it an incredibl
 
 <p align="center">
   <a href="https://github.com/DzakaAl/CurhatKu">
-    <img src="https://i.imgur.com/S1OMxSx.png" width='800dp' alt="Logo Teks" >
+    <img src="https://i.imgur.com/S1OMxSx.png" width='300dp' alt="Logo Teks" >
   </a>
 </p>
 
